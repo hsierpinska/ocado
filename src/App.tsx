@@ -14,9 +14,9 @@ function App() {
     <Routes>
       
 
-      <Route path="/" element={<Shop/>}/>
-      <Route path="/cart" element={<Cart/>}/>
-      <Route path="/order-summary" element={<OrderSummary/>}/>
+      <Route path="/ocado" element={<Shop/>}/>
+      <Route path="/ocado/cart" element={<Cart/>}/>
+      <Route path="/ocado/order-summary" element={<OrderSummary/>}/>
 </Routes>
 </Container>
 </ShoppingCartProvider>
