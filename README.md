@@ -19,4 +19,4 @@ This project is a simplified web application for an online store that allows use
  - Run ```npm run dev``` in main directory of the project
  - A message should appear in console, at which address the site is hosted; typically it's on ```http://localhost:5173/```
 
-
+Helena_Sierpińska_Web_Wrocław 
