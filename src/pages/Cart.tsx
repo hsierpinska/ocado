@@ -70,12 +70,12 @@ export function Cart() {
             })}
           </ListGroup>
           <h3>Suma: {getTotalPrice().toFixed(2)} zł</h3>
-          <Link to="/order-summary">
+          <Link to="/ocado/order-summary">
             <Button variant="primary">Przejdź do podsumowania</Button>
           </Link>
         </div>
       )}
-      <Link to="/">Wróć do sklepu</Link>
+      <Link to="/ocado">Wróć do sklepu</Link>
     </div>
   )
 }

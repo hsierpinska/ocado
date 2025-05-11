@@ -77,7 +77,7 @@ export function OrderSummary() {
       )}
 
       <div>
-        <Link to="/cart">Wróć do koszyka</Link>
+        <Link to="/ocado/cart">Wróć do koszyka</Link>
       </div>
     </div>
   )
